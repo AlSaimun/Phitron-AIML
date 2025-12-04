@@ -12,3 +12,6 @@ dist/
 .env
 *.sqlite3
 .ipynb_checkpoints
+
+*Assignment*.ipynb
+*Exam*.ipynb
